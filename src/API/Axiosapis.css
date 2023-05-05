@@ -1,0 +1,22 @@
+.live
+{
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-right: 5px;
+}
+.alive
+{
+    background-color: rgb(30, 255, 0);
+}
+.dead
+{
+    background-color: rgb(220, 19, 25);
+}
+.unknown
+{
+    background-color: rgb(238, 235, 235);
+       
+}
+

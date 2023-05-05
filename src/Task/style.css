@@ -1,0 +1,42 @@
+/* body
+{
+    background-color:rgb(46, 120, 239);
+}
+h1
+{
+    text-align: center;
+    background-color: rgb(77, 136, 244);
+}
+input[type=button]
+{
+     margin: 10px 10px;
+}
+.btn
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+    border: none;
+    background-color: maroon;
+    transition-duration:1s;
+}
+.btn:hover
+{
+    background-color: aliceblue;
+    transition: 1s;
+    transform: scale(1.1);
+}
+.writetext
+{
+    height: 30px;
+    width: 250px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+}
+.center
+{
+    text-align: center;
+}
+ */

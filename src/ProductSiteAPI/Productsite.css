@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgb(70, 113, 187);
+}
+.imghover:hover
+{
+    scale:1.1;
+    transition: .5s;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.carddesign
+{
+    width: 17rem;
+    height: 550px;
+    margin-top: 20px;
+
+}
+.starrating
+{
+    font-size: 13px;
+    margin-top: -5px;
+    color: gold;
+}
+.rate
+{
+    padding: 5px 7px;
+    background-color: rgb(68, 123, 234);
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 600;
+    color: aliceblue;
+}
+ul
+{
+    list-style: none;
+}
+.catbtn
+{
+    border: none;
+    background-color: inherit;
+    color: cornflowerblue;
+
+}
+.catbtn::first-letter
+{
+    text-transform:"capitalize";
+}
+.anime
+{
+    margin-left: 400px;
+    margin-top: 400px;
+    color: maroon;
+}

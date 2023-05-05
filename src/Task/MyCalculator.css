@@ -1,0 +1,33 @@
+body
+{
+    /* background-color: rgb(7, 54, 225);    */
+}
+.bg
+{
+   text-align: center;
+   margin-top: 100px;
+  
+}
+input[type=button]
+{
+    border: 1px solid black;
+    color: rgb(3, 25, 25);
+    background-color: rgb(60, 108, 242);
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    color: whitesmoke;
+    font-size: large;
+    margin: auto;
+}
+input[type=text]
+{
+    background-color: rgb(102, 138, 235);
+    border: 1px solid black;
+    height:50px;
+    width: 400px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: large;
+    margin-inline: 100px;
+}
